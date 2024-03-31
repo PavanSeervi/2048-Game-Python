@@ -8,7 +8,7 @@ Use arrow keys (up, down, left, right) to slide the tiles in the respective dire
 Tiles with the same number will combine when they touch.
 Continue combining tiles to reach the 2048 tile and win the game.
 
-**Features**
+# **Features**
 Console-based interface for easy play.
 Simple and intuitive controls using arrow keys.
 Keeps track of the current score and highest tile achieved.
